@@ -8,6 +8,6 @@ Task 3 – ApexPlanet Internship
 - Attendance (from API) 📊
 
 ## Screenshots
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](https://github.com/Juluru-Madhuri/ApexPlanet_Task3/blob/main/dashboard_task3.png)
 ![Notes](screenshots/notes.png)
 ![Attendance](screenshots/attendance.png)
