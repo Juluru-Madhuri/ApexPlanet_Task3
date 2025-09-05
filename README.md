@@ -9,5 +9,5 @@ Task 3 – ApexPlanet Internship
 
 ## Screenshots
 ![Dashboard](https://github.com/Juluru-Madhuri/ApexPlanet_Task3/blob/main/dashboard_task3.png)
-![Notes](screenshots/notes.png)
+![Notes](https://github.com/Juluru-Madhuri/ApexPlanet_Task3/blob/main/notes_task3.png)
 ![Attendance](screenshots/attendance.png)
